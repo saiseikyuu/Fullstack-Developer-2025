@@ -1,0 +1,26 @@
+
+/* Width */
+
+img {
+    width:  200px;
+}
+
+
+/* Display: Block, Inline */
+
+span {
+    display:  block;
+}
+
+/* Margin */
+
+div {
+    margin:  20px;
+}
+
+
+/* Classes */
+.greeting {
+    color:  blue;
+    font-size:  50px;
+}
