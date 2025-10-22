@@ -24,3 +24,19 @@ div {
     color:  blue;
     font-size:  50px;
 }
+
+/* Border | Border radius */
+div h1 {
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+
+/* Box model
+
+- Margin
+- Border
+- Padding
+- Content
+
+*/
