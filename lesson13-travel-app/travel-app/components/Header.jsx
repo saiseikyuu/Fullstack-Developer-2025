@@ -2,7 +2,7 @@ export default function Header() {
     return (
         <>
             <header>
-                <h1>This is header</h1>
+                <h1 className="logo-text">Travel Agency</h1>
             </header>
         </>
     )
