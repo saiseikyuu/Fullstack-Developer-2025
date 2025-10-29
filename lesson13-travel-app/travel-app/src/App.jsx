@@ -15,6 +15,10 @@ function App() {
        key={entry.id}
        country={entry.country}  
        title={entry.title}
+       dates={entry.dates}
+       text={entry.text}
+       img={entry.img}
+       googleMapsLink={entry.googleMapsLink}
       />
     )
   })
