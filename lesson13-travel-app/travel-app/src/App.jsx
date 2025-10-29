@@ -11,7 +11,11 @@ function App() {
 
   const entryElements = data.map(entry => {
     return (
-      <Entry key={entry.id} country={entry.country} />
+      <Entry 
+       key={entry.id}
+       country={entry.country}  
+       title={entry.title}
+      />
     )
   })
 
