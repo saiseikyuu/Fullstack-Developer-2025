@@ -14,6 +14,7 @@ function App() {
       <Entry 
        key={entry.id}
        country={entry.country}  
+       title={entry.title}
        dates={entry.dates}
        text={entry.text}
        img={entry.img}
